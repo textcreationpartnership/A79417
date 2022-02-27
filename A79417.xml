@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Syn theō, Consilium hygiasticum pro illustriss. excellentissq. heroë, Dno. Johanne Luca, Marchione Durazzo, extraordinario serenissimæ reip. Genuensis oratore, ad augustissimum Carolum II, Magnæ Britanniæ regem, honorificentissimèmisso, &amp; ab eodem paritèr excepto, anno hoc, Æræ Christi nati MDCLXI.</title>
+            <author>Charleton, Walter, 1619-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79417</idno>
+            <idno type="STC">Wing C3692</idno>
+            <idno type="STC">Wing C3667B</idno>
+            <idno type="STC">ESTC R2433</idno>
+            <idno type="EEBO-CITATION">13439771</idno>
+            <idno type="OCLC">ocm 13439771</idno>
+            <idno type="VID">171966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171966)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 411:6 or 2604:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Syn theō, Consilium hygiasticum pro illustriss. excellentissq. heroë, Dno. Johanne Luca, Marchione Durazzo, extraordinario serenissimæ reip. Genuensis oratore, ad augustissimum Carolum II, Magnæ Britanniæ regem, honorificentissimèmisso, &amp; ab eodem paritèr excepto, anno hoc, Æræ Christi nati MDCLXI.</title>
+                  <author>Charleton, Walter, 1619-1707.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At end: Raptim dabam Londini, è musaeo meo, 24. Jan. anno MDCLXI. Gualterus Charletonus.</note>
+                  <note>This item appears at reel 411:6 as Wing C3692, and at reel 2604:13 as Wing (CD-ROM, 1996) C3667B.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171966:1" rendition="simple:additions"/>
+            <head>ΣΥΝ Θ ΕΩ</head>
+            <head>
+               <hi>Conſilium Hygiaſticum,</hi> Pro Illuſtriſſ. Excellentiſſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Heroë, D<hi rend="sup">no.</hi> 
+               <hi>JOHANNE LUCA,</hi> Marchione <hi>DURAZZO,</hi> Extraordinario Sereniſsimae Reip. <hi>GE<g ref="char:EOLhyphen"/>NUENSIS</hi> Oratore, ad Auguſtiſsimum <hi>CAROLUM II.</hi> Magnae Britanniae Regem, honorificentiſsimè miſſo, &amp; ab eodem paritèr excepto, Anno hoc, Aerae Christi nati, <hi>MDCLXI.</hi>
+            </head>
+            <p>QUUM ex rationali, &amp; ad ſan<g ref="char:EOLhyphen"/>ctiores Artis Apollineae leges ac<g ref="char:EOLhyphen"/>curatiſsimè inſtituto Stochaſmo, nobis planè plenèque compertum ſit, <hi>Nobiliſsimum Virum</hi> contumacioribus viſ<g ref="char:EOLhyphen"/>cerum
+<pb n="2" facs="tcp:171966:2"/>Nutricatui officialium, maxi<g ref="char:EOLhyphen"/>mè verò Meſenterii ac Lienis obſtru<g ref="char:EOLhyphen"/>ctionibus impenſe obnoxium eſſe; eòque forſan nomine, <hi>Affectione</hi> Hy<g ref="char:EOLhyphen"/>pochondriaca ſubinde moleſtatum fu<g ref="char:EOLhyphen"/>iſſe, annis aliquot retrò abhinc elapſis, &amp; non ita pridem graviori etiam Febre Tertiana; quumque omnimoda affe<g ref="char:EOLhyphen"/>ctum horum eradicatio potiſsimùm ſpe<g ref="char:EOLhyphen"/>rari debeat ab uſu eorum remediorum, quae obſtructis ac Hypochondriacis certiſ<g ref="char:EOLhyphen"/>ſimam ſpondent medelam: Eapropter, Eum humillimè duximus monendum, adhortandumque, ut, quamprimùm Patriae felicitèr redditus fuerit, inſequen<g ref="char:EOLhyphen"/>tia Medicamenta, tempore, modo, ac ordine praeſcriptis, alacritèr uſurpando, ſaluti ſuae proſpiciat; impraeſentiarum quidem (quod lugendum) vix ſatis con<g ref="char:EOLhyphen"/>ſtanti, aſt omnibus melioris Genii homi<g ref="char:EOLhyphen"/>nibus haud immeritò chariſsimae.</p>
+            <p>Exordium, igitur, commodiſsimè ſumatur â benigniori primarum via<g ref="char:EOLhyphen"/>rum
+<pb n="3" facs="tcp:171966:2"/>ablutione: cui ſcopo adprimè ſatiſ<g ref="char:EOLhyphen"/>faciet hujuſmodi Apozema ſolutivum.</p>
+            <p>℞
+
+<list>
+                  <item>Decoct. Sennae &amp; Tamarindorum, in a<g ref="char:EOLhyphen"/>qua Hordeacea facti, ℥ iij. ſs.</item>
+                  <item>Aceti Sambucini recentioris, <g ref="char:dram">ʒ</g> vj.</item>
+                  <item>Rhabarbari optimi, minutìm inciſi, <g ref="char:dram">ʒ</g> j. ſs.</item>
+                  <item>Agarici albiſsimi, pariter in fruſtula ſecti, <g ref="char:dram">ʒ</g> j.</item>
+                  <item>Seminum Foeniculi dulcis, &amp; Carui con<g ref="char:EOLhyphen"/>tuſorum, ana ℈ ſs.</item>
+                  <item>Florum Macis amplior. Gr. vj.</item>
+               </list>
+            </p>
+            <p>Maceratione per 3. horulas, ad lentio<g ref="char:EOLhyphen"/>rem cinerum calorem, factâ, tranſcola<g ref="char:EOLhyphen"/>tòque liquore, denuò admiſceantur.
+<list>
+                  <item>Syruporum Cichorei cum Rheo, &amp; Ro<g ref="char:EOLhyphen"/>ſarum ſolutivi, ana <g ref="char:dram">ʒ</g> vj.</item>
+                  <item>Tartari Vitriolati, Gr. vij.</item>
+               </list>
+            </p>
+            <p>Ut fiat Potio, mane mox poſt ſolis exortum ſumenda, cum regimine pur<g ref="char:EOLhyphen"/>gativo.</p>
+            <p>Impuritatibus è prima corporis regi<g ref="char:EOLhyphen"/>one,
+<pb n="4" facs="tcp:171966:3"/>viſcerumque confiniis, hoc pacto, cum Euphoria, exterminatis; poſtera luce celebranda veniet <hi>Phlebotomia:</hi> quae dextrè adminiſtrari poſsit in magis con<g ref="char:EOLhyphen"/>ſpicua vena cubiti dextri; unde effluere permittantur ſanguinis ℥ <hi>vij,</hi> aut circiter. Hoc autem <hi>Illuſtriſſ. Marchioni</hi> ſeriò per<g ref="char:EOLhyphen"/>ſuadere nobis viſum eſt, duplicem qui<g ref="char:EOLhyphen"/>dem ob conſiderationem: nimirum, ut per detractionem iſtam moderatam aliquantulùm imminuto ſanguinis ple<g ref="char:EOLhyphen"/>onaſmo, quicquid in vaſis ſupereſt, liberiùs expeditiúſque per univerſum corpus ſuos peragat circuitus; utque tempeſtivè exonerentur viſcerum pe<g ref="char:EOLhyphen"/>netralia, plenioribus ejuſdem Laticis purpurei rivulis infarcta, &amp; aliquate<g ref="char:EOLhyphen"/>nus diſtenta. Experientia quippe mul<g ref="char:EOLhyphen"/>tiplici ſumus edocti, prudentèr inſti<g ref="char:EOLhyphen"/>tutam venae ſectionem, quicquid in Arterioſo venosòque genere redundat, deplere; diſtentum relaxare; inflam<g ref="char:EOLhyphen"/>mationi pronum contemperare; deni<g ref="char:EOLhyphen"/>que tum carnes, tum vaſula <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> red<g ref="char:EOLhyphen"/>dere.</p>
+            <p>
+               <pb n="5" facs="tcp:171966:3"/>
+Proximum locum ſibi ex ordine vendicant <hi>Deobſtruentia</hi> mitiora; talia tamen, quae craſſos, viſcidos, ſalinos, faecumque vini aemulos ſuccos, in an<g ref="char:EOLhyphen"/>guſtioribus Meſenterii meandris coa<g ref="char:EOLhyphen"/>cervatos, attenuando, incidendo, exa<g ref="char:EOLhyphen"/>gitando, ſensìm ſubmoveant, praepa<g ref="char:EOLhyphen"/>rentque ad commodiorem ſuo tempo<g ref="char:EOLhyphen"/>re deturbationem. Quocirca, ſangui<g ref="char:EOLhyphen"/>nis miſsionem citò excipiat uſus Apo<g ref="char:EOLhyphen"/>zematis hujus deoppilativi.</p>
+            <p>℞
+
+<list>
+                  <item>Radicum quinque Aperitivarum, ana ℥ ij.</item>
+                  <item>Oſmundi regalis ſiccat. ℥ j. ſs.</item>
+                  <item>A<g ref="char:EOLhyphen"/>ſari ℥ ſs.</item>
+                  <item>Corticum radicum Capparum, &amp; Ta<g ref="char:EOLhyphen"/>mariſci, ana <g ref="char:dram">ʒ</g> vj.</item>
+                  <item>Folior. Agrimoniae, Ceterach, ITEMinguae Cervinae, ana, M. j.</item>
+                  <item>Flor. Sambuci, Cichorei, Geniſtae, ana M. ſs.</item>
+                  <item>Uvarum Corinthiacarum, à ſordibus re<g ref="char:EOLhyphen"/>purgatarum, ℥ ij.</item>
+                  <item>Seminum Endiviae, &amp; Aquilegiae, ana <g ref="char:dram">ʒ</g> ij.</item>
+                  <item>Tartari ad Albedinem niveam loti, ℥ j.</item>
+               </list>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:171966:4"/>
+Inciſa &amp; contuſa leniter coquantur, ad B. M. calorem, per horam u<g ref="char:EOLhyphen"/>nam &amp; alteram, in partibus ae<g ref="char:EOLhyphen"/>qualibus vini albi Oligophori, &amp; Aquae Fluvialis, ut poſt decocti<g ref="char:EOLhyphen"/>onem ſaturatam remaneant Liquo<g ref="char:EOLhyphen"/>ris Librae tres. Quibus exquiſitè colatis, &amp; clarificatis tandem af<g ref="char:EOLhyphen"/>fundantur
+<list>
+                  <item>Syrupi è ſucco Fumariae, ℥ vj.</item>
+                  <item>Spirit. Vitrioli, ſaepiùs rectificat, ℈ ij.</item>
+               </list>
+            </p>
+            <p>Ut conficiatur Apozema, de quo, mane, &amp; appetente jam veſperâ, exhibeantur ℥ <hi>v.</hi> continuò per tri<g ref="char:EOLhyphen"/>duum; abſtinendo interim ab Epulis veſpertinis.</p>
+            <p>Huic autem proximè ſuccedat levior <hi>Catharſis,</hi> ex hujuſmodi Catapotiis.</p>
+            <p>℞
+
+<list>
+                  <item>Pilular. Hierae cum Agarico, ℈j. ſs.</item>
+                  <item>Reſinae Zalapii, Gr. viij.</item>
+                  <item>
+                     <pb n="7" facs="tcp:171966:4"/>
+Elixir. proprietatis Paracelſi Guttulas quot ſufficiant.</item>
+               </list>
+            </p>
+            <p>E commixtis formentur Pilulae quin<g ref="char:EOLhyphen"/>que, auro obryzo foliato hone<g ref="char:EOLhyphen"/>ſtandae, primàque luce, in pulpa pomi Buxtorfiani aſſari, degluti<g ref="char:EOLhyphen"/>endae: ſuperhauriendo ſerum lactis vaccini, ſucco Aurantii acidioris ſequeſtratum, atque ad jucundita<g ref="char:EOLhyphen"/>tem ſaporis ſaccharatum; idque toties quoties ventrem laxaverint.</p>
+            <p>Poſtridie hujus purgationis ſecundae, peropportunum erit ad <hi>Ecphractica</hi> ge<g ref="char:EOLhyphen"/>neroſiora progredi. Quorum è cenſu, caeteris omnibus palmam dudum jam praeripuiſſe perhibentur è <hi>Chalybe</hi> com<g ref="char:EOLhyphen"/>poſita: non, mehercule, (ut rem, quam <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, mul<g ref="char:EOLhyphen"/>ti mirantur, pauci verò intelligunt, obiter heic ſubinnuere liceat) reſpectu Sulphuris illius, quod Chalybi inſitum, virtute quadam pollere creditur inſig<g ref="char:EOLhyphen"/>nitèr
+<pb n="8" facs="tcp:171966:5"/>inciſoria, quemadmodum pre<g ref="char:EOLhyphen"/>cariò ſtatuunt plerique è Practicis; ſed multo veriſimiliùs quòd mala Hypo<g ref="char:EOLhyphen"/>chondriaca ferè omnia à Fermenta<g ref="char:EOLhyphen"/>tionis vi proficiſci videantur; eidem<g ref="char:EOLhyphen"/>que compeſcendae Chalybs ſummope<g ref="char:EOLhyphen"/>rè conducat. Quippe ſi Aceto etiam acerrimo (cui ſeroſa Melancholicorum colluvies certè haud multum abſimi<g ref="char:EOLhyphen"/>lis exiſtit) limaturam ejus, per no<g ref="char:EOLhyphen"/>ctis ſpatium, indiderit quis; poſtri<g ref="char:EOLhyphen"/>die pro aceto aquam inveniet, omni acore ſpoliatam. Caeterum, utcunque ſe habeat haec res, praelonga, nec im<g ref="char:EOLhyphen"/>proſpera ſanè Experientia ſancitum fa<g ref="char:EOLhyphen"/>temur, Chalybeata reſerandis viſcerum obſtructionibus convenire eximiè: pro<g ref="char:EOLhyphen"/>indeque Nos <hi>viro Ampliſsimo</hi> authores eſſe nulli dubitamus, eorum uſum in ſe admittere nec recuſet, nec ultrà hic definitam <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> differat; eâ tamen lege, ut vitentur ea, quae ſupra mo<g ref="char:EOLhyphen"/>dum aut calefacere poſsint, aut exſic<g ref="char:EOLhyphen"/>care; &amp; ut talibus conſociantur, quae
+<pb n="9" facs="tcp:171966:5"/>alvum quotidiè muneris ſui com<g ref="char:EOLhyphen"/>monefaciant. Laudamus itaque Pi<g ref="char:EOLhyphen"/>lulas Martis, hujuſmodi artificio con<g ref="char:EOLhyphen"/>fectas.</p>
+            <p>℞
+
+<list>
+                  <item>Maſſae Pilular. Hierae cum Agarico, <g ref="char:dram">ʒ</g> j.</item>
+                  <item>Rhabarbari optimi pulverat, ℈ ij.</item>
+                  <item>ITEMimaturae Chalybis puriſsimae, in polli<g ref="char:EOLhyphen"/>nem ſubtiliſsimum redactae, ℈ j. ſs.</item>
+                  <item>Extracti Centaurei minoris, <g ref="char:dram">ʒ</g> j.</item>
+                  <item>Salis Abſinthii, ℈ ſs.</item>
+                  <item>Terebinthinae Cypriae, quantum ſatis ſit, ut lentore ejus conſiſtentiam induant pilularem caetera commiſta.</item>
+               </list>
+            </p>
+            <p>E maſſula hac formentur Pilulae mediocres, auro decorandae, &amp; pondere ℈ <hi>ij.</hi> ſumendae, ſingulis auroris, per dies viginti. Obſer<g ref="char:EOLhyphen"/>vandum autem praeterea, ut poſt unamquamque doſin &amp; ſuperbi<g ref="char:EOLhyphen"/>batur ſerum lactis vaccini, in quo Flores Cichorei &amp; Borra<g ref="char:EOLhyphen"/>ginis
+<pb n="10" facs="tcp:171966:6"/>incocti fuerint; &amp; ut mo<g ref="char:EOLhyphen"/>deratè exerceatur corpus, per horulam unam &amp; alteram, vel (ſi ferant vires) ampliùs: ex utròque enim facultates Ecphra<g ref="char:EOLhyphen"/>cticῶn haud parùm promovebun<g ref="char:EOLhyphen"/>tur.</p>
+            <p>Porro dum haec peraguntur, ſum<g ref="char:EOLhyphen"/>mè proficuum fore arbitramur, ſi <hi>Illuſtriſſ. Marchio</hi> ſe in Balneum Aquae dulcis, bis tervè in ſeptimana, ad humeros uſque (ſi modo id ferre valeat, ſin minùs ſemicupium ſubro<g ref="char:EOLhyphen"/>gari poterit) immergeret. Quando<g ref="char:EOLhyphen"/>quidem <hi>Galenus</hi> (8. <hi>de loc. affect. cap.</hi> 6.) refert, ſolis Balneis aquarum dulci<g ref="char:EOLhyphen"/>um ſe multos Melancholicos curaſſe, abſque ullo alio medicamento. Nec ſine ſontica cauſa profectò. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> quippe, ſive redundantia Seri in Lie<g ref="char:EOLhyphen"/>noſis, quae proculdubio eſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, fons eorum, quae ſunt in corpore, malorum, ut loquitur divi<g ref="char:EOLhyphen"/>nus
+<pb n="11" facs="tcp:171966:6"/>Senex (<hi>lib. de Flatibus</hi> 2. <hi>text.</hi> 19.) tam per inconſpicua cutis ſpi<g ref="char:EOLhyphen"/>racula, quàm per Urinas evacuari expoſcit.</p>
+            <p>Abſoluto tandem, quicquid ad expe<g ref="char:EOLhyphen"/>diendos viſcerum infarctus, humoreſ<g ref="char:EOLhyphen"/>que vitioſos, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>per loca lege Naturae commodiora,</hi> pedetentim educendos, videretur requiſitum; nil aliud agendum reſtabit, ſperamus, quàm ut partium malè affectarum intempe<g ref="char:EOLhyphen"/>ries, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſucceſsivè corrigantur: id quod haud difficulter praeſtabunt <hi>Corro<g ref="char:EOLhyphen"/>borantia.</hi> Quorum è ſylva ſequens ſe<g ref="char:EOLhyphen"/>ligeremus <hi>Electuarium,</hi> menſe integro di<g ref="char:EOLhyphen"/>etìm uſurpandum.</p>
+            <p>℞
+
+<list>
+                  <item>Pulpae Paſſularum Corinthiacarum, vi<g ref="char:EOLhyphen"/>no Hiſpanico polygophoro decentèr extractae, &amp; per ſetaceum trajectae, ℥ iiij.</item>
+                  <item>Conſerv. Florum Borraginis &amp; Bugloſſae, ana ℥ ij.</item>
+                  <item>
+                     <pb n="12" facs="tcp:171966:7"/>
+Confect. Alchermes, ℥ j.</item>
+                  <item>Pulver. è chelis Cancror. marium ſim<g ref="char:EOLhyphen"/>plicis, &amp; Laetitiae Galeni, ana <g ref="char:dram">ʒ</g> ij.</item>
+                  <item>Raſurae Cornu Cervini, &amp; Eboris pul<g ref="char:EOLhyphen"/>verat, ana <g ref="char:dram">ʒ</g> j. ſs.</item>
+                  <item>Margaritarum praeparat. <g ref="char:dram">ʒ</g> j.</item>
+                  <item>Syrupor. è Corticibus Citriorum, &amp; è Coralliis ſimplic. ana quantum ſuffi<g ref="char:EOLhyphen"/>ciat.</item>
+               </list>
+            </p>
+            <p>Ut fiat <hi>Conditum;</hi> cujus, mane, &amp; ſub veſperam, detur Duella: ſuper<g ref="char:EOLhyphen"/>hauſto Cyatho duplici Vini Rhe<g ref="char:EOLhyphen"/>nani Bacharacenſis, floribus Cichorei, Borraginis &amp; Bugloſſae impraegna<g ref="char:EOLhyphen"/>ti, nec non ſucci Aurantii pauxillo aculeati.</p>
+            <p>
+               <hi>Diaetae</hi> regimen quod attinet, non eſt, profectò, cur ſuper eo admodum ſolliciti eſſemus, aut curioſi. Nam <hi>Magnificentiſſ. Heros</hi> tam ſtrictè ſo<g ref="char:EOLhyphen"/>brius eſt, atque abſtemius; ut minimè metuendum, Ipſum gulae indulgendo va<g ref="char:EOLhyphen"/>letudini
+<pb n="13" facs="tcp:171966:7"/>ſuae unquam incommodaturum: tam prudens, ut appetitui ſuo fraena inji<g ref="char:EOLhyphen"/>cere probè noverit; ab <hi>Hippocrate</hi> noſtro dudum edoctus, quòd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>habet unaquaeque eſca, quo proſit, vel obſit.</hi>
+            </p>
+            <p>Jam verò finem ſcriptiunculae huic impoſiturus, primùm me converto ad Te, Deus ter Opt. Max. animarum juxta ac corporum Archiater: divinam Miſericordiam Tuam ſupplex accedo, rogoque, ut auxiliis omnibus ac ſingu<g ref="char:EOLhyphen"/>lis à me heic praeſcriptis adeſſe velit, &amp; benedictione ſingulari adſpirare, ne optato ſucceſſu fruſtrentur.</p>
+            <p>Deinde me converto ad TE, <hi>Mar<g ref="char:EOLhyphen"/>chionum Nobiliſsime,</hi> qui oraculum es inclytiſsimi Senatus veſtri, &amp; totius <hi>Li<g ref="char:EOLhyphen"/>guriae</hi> ſpes. TIBI ſummas ago grati<g ref="char:EOLhyphen"/>as, quòd tenuitatem meam dignatus es in re maximi momenti, ſcilicet Sanitatis Tuae, conſulere: Teque ſubmiſſè rogo,
+<pb n="14" facs="tcp:171966:8"/>etiam digneris in hoc Conſilio, qua<g ref="char:EOLhyphen"/>lecunque ſit, agnoſcere voluntatem of<g ref="char:EOLhyphen"/>ficioſam, promptam, ſinceram, quam<g ref="char:EOLhyphen"/>que habere me decet ad omne omnino <hi>Excellentiae Tuae</hi> obſequium. Vale, <hi>Vir Excellentiſsime,</hi> &amp; ad Neſtoreos uſ<g ref="char:EOLhyphen"/>que annos illibata ſanitate perfruere. Ita toto animo vovet</p>
+            <closer>
+               <signed>EXCELLENTIAE TUAE cultorum humillimus, Devotiſsimus, <hi>GUALTERUS CHARLETONUS, M.D.</hi> &amp; Auguſtiſsimi CAROLI II. Magnae, Britanniae Regis Medicus Ordinarius.</signed> 
+               <dateline>Raptim da<g ref="char:EOLhyphen"/>bam <hi>Londini,</hi> è muſaeo meo, <date>24. <hi>Jan. Anno</hi> MDCLXI.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:171966:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
